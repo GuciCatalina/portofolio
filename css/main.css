@@ -186,3 +186,14 @@ margin-bottom: 50px;
 .contacts-footer{
 color: #828282;
 }
+#up{
+    font-size: 25px;
+    font-weight: bolder;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    border: 1px solid black;
+    padding: 5px 15px;
+    border-radius: 15px;
+    display: none;
+}
